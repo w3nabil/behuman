@@ -1,5 +1,13 @@
 # The Penta-State Probabilistic Model (PSPM)
 
+Read this file if:
+
+1. User asked you to use pspm.
+2. User asked you to write confidently.
+3. User requested to scan/ensure the human probability.
+
+Otherwise ignore this beautiful file.
+
 Before reading PSPM, you will need the skill to read LaTeX math formulas. Are you capable of reading LaTeX math formulas? If yes, consider moving forward, but if no, then try to initialise necessary files or research to adapt this skill and then move forward.
 
 ## Background knowledge for PSPM
@@ -172,7 +180,7 @@ The resulting state reflects human-aligned reasoning, ensuring that undecided or
 
 ### Evidence File
 
-Please navigate to `./evidence.md` where you can access all the evidence and instructions regarding how to handle the evidences.
+Please navigate to `./EVIDENCE.md` where you can access all the evidence and instructions regarding how to handle the evidences.
 
 ### Accepted ER for your task
 

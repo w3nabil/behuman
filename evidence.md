@@ -1,8 +1,10 @@
 # Evidences
 
+Before reading this file, please navigate to `./PSPM.md`, if the file says you are not requested to continue with the PSPM calculation then ignore this file completely.
+
 ---
 
-This is evidence page for PSPM calculation and `become-human`'s requested file that runs each time machine triggers, not just one time if you have multiple paragraphs. This file can not be triggered or used if you do not have any content and/or text for your work.
+This is the evidence page for PSPM calculation. Consider reading it carefully without guessing or reading from the cache.
 
 ---
 
