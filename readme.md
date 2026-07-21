@@ -55,7 +55,7 @@ No dependencies, no build step — it's a folder. Where it goes depends on the s
 
 ```bash
 # Claude Code, personal skill, latest release
-curl -L -o behuman.zip https://github.com/w3nabil/behuman/archive/refs/tags/v0.3.0.zip
+curl -L -o behuman.zip https://github.com/w3nabil/behuman/releases/download/0.3.0/behuman-0.3.0.zip
 unzip behuman.zip -d ~/.claude/skills/
 mv ~/.claude/skills/behuman-0.3.0 ~/.claude/skills/behuman
 ```
